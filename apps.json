@@ -1,5 +1,14 @@
 [
   {
+    "id": "1780845201921",
+    "name": "SCRL IPAOMTK.com",
+    "bundleId": "com.SCRLcamviet.app",
+    "version": "1.0",
+    "url": "https://github.com/mikoisptt-ops/ota-ipas/releases/download/v1780845153/SCRL-IPAOMTK.com.ipa",
+    "iconUrl": null,
+    "dateAdded": "2026-06-07T15:13:21.921Z"
+  },
+  {
     "id": "1780844842098",
     "name": "OldRoll IPAOMTK.COM",
     "bundleId": "com.oldrollviet.app",
