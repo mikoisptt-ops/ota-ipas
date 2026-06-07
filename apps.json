@@ -1,5 +1,14 @@
 [
   {
+    "id": "1780845284762",
+    "name": "Netflix IPAOMTK.COM",
+    "bundleId": "com.netflixxxviet.app",
+    "version": "1.0",
+    "url": "https://github.com/mikoisptt-ops/ota-ipas/releases/download/v1780845261/Netflix-IPAOMTK.COM.ipa",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/b3/6d/e4b36dad-0319-116a-2bff-9b1e2e5e7508/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-0-85-220.png/512x512bb.jpg",
+    "dateAdded": "2026-06-07T15:14:44.762Z"
+  },
+  {
     "id": "1780845201921",
     "name": "SCRL IPAOMTK.com",
     "bundleId": "com.SCRLcamviet.app",
